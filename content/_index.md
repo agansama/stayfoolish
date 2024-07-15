@@ -1,5 +1,5 @@
 +++
-title = '藏拙'
+title = '封面'
 date = 2024-07-15T09:11:07Z
 draft = false
 

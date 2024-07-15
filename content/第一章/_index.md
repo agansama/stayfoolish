@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Basics"
+title = "第一章"
 weight = 1 
 +++
 
