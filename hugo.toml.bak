@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '藏拙 残阳&桃子'
+theme = 'hugo-theme-relearn'
